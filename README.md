@@ -8,7 +8,7 @@ New Moon is a dark syntax theme available for Visual Studio Code, Brackets, Subl
 
 To use this theme:
 
-- To go c`hrome://flags`, find "Developer Tools Experiments" and toggle to "Enabled". Reload.
+- To go `chrome://flags`, find "Developer Tools Experiments" and toggle to "Enabled". Reload.
 - In DevTools, click the three dots menu, go to "Settings" -> "Experiments" and select "Allow UI Themes".
 - Load a new tab and enjoy your awesome new theme!
 
