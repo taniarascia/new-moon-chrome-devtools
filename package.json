@@ -1,27 +1,26 @@
 {
-  "name": "zero-base-themes",
-  "version": "0.0.2",
-  "description": "Chrome Devtools themes using the Zero-Base Template",
+  "name": "new-moon-chrome-devtools",
+  "version": "0.1.1",
+  "description": "New Moon Theme for Chrome DevTools",
   "main": "Gruntfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mauricecruz/zero-base-themes.git"
+    "url": "git+https://github.com/taniarascia/new-moon-chrome-devtools.git"
   },
-  "author": "Maurice Cruz",
+  "author": "Tania Rascia",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mauricecruz/zero-base-themes/issues"
+    "url": "https://github.com/taniarascia/new-moon-chrome-devtools/issues"
   },
-  "homepage": "https://github.com/mauricecruz/zero-base-themes#readme",
+  "homepage": "https://taniarascia.github.io/new-moon",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {},
   "devDependencies": {
-    "grunt": "^1.0.1",
+    "grunt": "^1.0.3",
     "grunt-bump": "^0.8.0",
-    "grunt-contrib-compress": "^1.4.1",
-    "grunt-contrib-less": "^1.4.1",
-    "grunt-contrib-watch": "^1.0.0"
+    "grunt-contrib-compress": "^1.4.3",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
   }
 }
