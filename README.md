@@ -4,7 +4,7 @@
 
 ![](new-moon.png)
 
-New Moon is designed to be easy on the eyes with intuitive connections between related elements. It's pleasant for long coding hours in any language, and particularly well suited for HTML, CSS, Sass, PHP, and JavaScript.
+[New Moon](https://taniarascia.github.io/new-moon) is designed to be easy on the eyes with intuitive connections between related elements. It's pleasant for long coding hours in any language, and particularly well suited for HTML, CSS, Sass, PHP, and JavaScript.
 
 ## Instructions
 
@@ -12,6 +12,10 @@ New Moon is designed to be easy on the eyes with intuitive connections between r
 - Reload.Chrome.
 - In DevTools, click the three dots menu, go to `Settings` -> `Experiments` and select `Allow UI Themes`.
 - Load a new tab and enjoy your awesome new DevTools theme!
+
+## Screenshot
+
+![](screenshot.png)
 
 ## Credit
 

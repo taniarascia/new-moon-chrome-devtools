@@ -1,6 +1,6 @@
 {
   "name": "new-moon-chrome-devtools",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "New Moon Theme for Chrome DevTools",
   "main": "Gruntfile.js",
   "repository": {
