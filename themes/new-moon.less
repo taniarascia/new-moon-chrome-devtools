@@ -10,82 +10,83 @@
 @global-arrow     : #8c8c8c;
 @global-background: #2d2d2d;
 @global-boxshadow : rgba(17,17,17,.6);
-@global-divider   : lighten(@global-background, 5%);
-@global-hover     : lighten(@global-background, 6%);
+@global-divider   : lighten(@global-background, 10%);
+@global-hover     : lighten(@global-background, 5%);
 @global-input     : #111;
-@global-selected  : rgba(255,255,255,.1);
-@global-text      : #cccccc;
+@global-selected  : rgba(0,0,0,.7);
+@global-text      : #b3b9c5;
 @global-toolbar   : #444;
 @global-label     : #626262;
 @global-warn      : #ffeea6;
 @global-error     : #f2777a;
-@global-link      : #99cc99;
-@global-textshadow: darken(@global-background, 4%);
+@global-link      : #92D192;
+@global-textshadow: darken(@global-background, 10%);
 
 // JavaScript
-@js-atom      : #99cc99;
-@js-attribute : #cccccc;
-@js-builtin   : #76d4d6;
-@js-comment   : #676767;
+@js-atom      : #92D192;
+@js-attribute : #b3b9c5;
+@js-builtin   : #62CFCF;
+@js-comment   : #777c85;
 @js-def       : #49a6d2;
-@js-error     : #f2777a;
-@js-header    : #99cc99;
-@js-hr        : #aeaeae;
+@js-error     : #ad4e4e;
+@js-header    : #92D192;
+@js-hr        : #777c85;
 @js-keyword   : #ffeea6;
-@js-link      : #99cc99;
+@js-link      : #92D192;
 @js-meta      : #ffffff;
 @js-number    : #fca369;
-@js-operator  : #cda869;
-@js-property  : #cccccc;
-@js-string    : #99cc99;
+@js-operator  : #AC8D58;
+@js-property  : #b3b9c5;
+@js-string    : #92D192;
 @js-tag       : #49a6d2;
-@js-variable  : #76d4d6;
+@js-variable  : #62CFCF;
 @js-variable-2: #f2777a;
 
 // JavaScript Objects
-@js-obj-array    : #7c7c7c;
-@js-obj-boolean  : #fca369;
+@js-obj-array    : #777c85;
+@js-obj-boolean  : #E1A6F2;
 @js-obj-function : #ffffff;
-@js-obj-name     : #cccccc;
+@js-obj-name     : #b3b9c5;
 @js-obj-number   : #fca369;
 @js-obj-preview  : #dddddd;
-@js-obj-regexp   : #99cc99;
-@js-obj-string   : #99cc99;
+@js-obj-regexp   : #92D192;
+@js-obj-string   : #92D192;
 @js-obj-undefined: #ad4e4e;
 
 // CSS
 @css-at-rule   : #ffeea6;
-@css-atom      : #d6acd6;
+@css-atom      : #E1A6F2;
 @css-builtin   : #ffd479;
 @css-comment   : #8a8a80;
-@css-def       : #78aad6;
+@css-def       : #6AB0F3;
 @css-important : #ffeea6;
 @css-meta      : #ffffff;
 @css-number    : #fca369;
-@css-operator  : #cda869;
-@css-property  : #d6acd6; 
-@css-qualifier : #78aad6;
-@css-string    : #99cc99;
-@css-string-2  : #99cc99;
-@css-tag       : #78aad6;
+@css-operator  : #AC8D58;
+@css-property  : #E1A6F2; 
+@css-qualifier : #6AB0F3;
+@css-string    : #92D192;
+@css-string-2  : #92D192;
+@css-tag       : #6AB0F3;
 @css-variable  : #f2777a;
 @css-variable-2: #ffeea6;
-// @css-id        : #d6acd6;
+@css-id        : #E1A6F2;
 @css-class     : #ffd479;
-// @css-pseudo    : #76d4d6;
+@css-pseudo    : #62CFCF;
 
 // HTML Highlighting
 @xml-attribute         : #ffd479;
-@xml-comment           : #8a8a80;
+@xml-comment           : #777c85;
 @xml-error             : #f2777a;
-@xml-iframe-root       : #fca369;
-@xml-js-node           : #c2c3c3;
-@xml-link              : #99cc99;
-@xml-pseudo            : #78aad6;
-@xml-pseudo-highlighted: #f2777a;
+@xml-iframe-root       : #E1A6F2;
+@xml-js-node           : #abb2bf;
+@xml-link              : #92D192;
+@xml-pseudo            : #62CFCF;
+@xml-pseudo-highlighted: #62CFCF;
 @xml-shadow-root       : #fca369;
-@xml-string            : #99cc99;
-@xml-tag               : #78aad6;
+@xml-string            : #92D192;
+@xml-tag               : #6AB0F3;
+@xml-bracket           : #abb2bf;
 
 // Tabbed Header Configuration
 @toolbar-main         : @global-toolbar;
@@ -95,7 +96,7 @@
 @tab-color-top        : lighten(@global-background, 18%);
 @tab-color-bottom     : lighten(@global-background, 8%);
 @tab-highlighted      : @global-accent;
-@tab-label            : #999;
+@tab-label            : #9a9a9a;
 @tab-label-selected   : #f8f8f8;
 @tab-label-unsaved    : #ffeea6;
 
@@ -118,7 +119,7 @@
 // Console
 @console-default-text: @global-text;
 @console-input-text  : #f1f1f1;
-@console-link        : #888;
+@console-link        : #848991;
 
 // Dialog [Ctrl/Cmd + O | Ctrl/Cmd + Shift + O]
 @dialog-background     : lighten(@global-background, 5%);
@@ -150,11 +151,11 @@
 @eh-clipboard-selection : lighten(@global-background, 40%);
 
 // Elements Sidebar
-@style-edit-mode-selector-text: #999;
+@style-edit-mode-selector-text: #848991;
 @style-section                : lighten(@global-background, 15%);
-@style-selector-text          : #cccccc;
+@style-selector-text          : #b3b9c5;
 @style-separator              : lighten(@global-background, 10%);
-@style-value                  : #d6acd6;
+@style-value                  : #E1A6F2;
 
 // Filters
 @filter-background   : lighten(@global-background,5%);
@@ -164,16 +165,16 @@
 @filter-selected-text: lighten(@global-text, 15%);
 @filter-error        : @global-error;
 @filter-warning      : #ffeea6;
-@filter-info         : #49a6d2;
-@filter-log          : #49a6d2;
+@filter-info         : #b3b9c5;
+@filter-log          : #b3b9c5;
 @filter-debug        : @global-error;
 @filter-verbose      : @global-error;
 
 // Find
 @find-header-background   : lighten(@global-background, 3%);
-@find-header-text         : #888;
+@find-header-text         : #848991;
 @find-highlight-background: @global-accent;
-@find-highlight-text      : #000;
+@find-highlight-text      : #111111;
 
 // Forms
 @form-button-background: lighten(@global-background, 5%);
@@ -186,7 +187,7 @@
 @form-label-text       : @global-text;
 
 // Local Modifications
-@history-added-text  : #99cc99;
+@history-added-text  : #92D192;
 @history-removed-text: @global-error;
 
 // Screencast
@@ -216,11 +217,11 @@
 @hover-text      : @global-text;
 
 // Sources Tab
-@sources-exception-all     : #99cc99;
+@sources-exception-all     : #92D192;
 @sources-exception-uncaught: #ffd479;
 @sources-highlight-text    : darken(@global-background, 4%);
 @sources-pane-background   : rgba(0,0,0,.8);
-@sources-placeholder-text  : #999;
+@sources-placeholder-text  : #848991;
 @sources-save-background   : @global-background;
 @sources-text              : @global-text;
 
@@ -235,13 +236,13 @@
 @timeline-overview-background : @global-background;
 @timeline-graph-selection     : @global-accent;
 @timeline-progress-pane       : fade(lighten(@global-background,30%), 50%);
-@timeline-resources-divider   : lighten(@global-background, 3%);
+@timeline-resources-divider   : lighten(@global-background, 2%);
 
 
 
 // Popovers
 @popover-background       : lighten(@global-background, 5%);
-@popover-details-row-title: #49a6d2;
+@popover-details-row-title: #ffd479;
 @popover-details-title    : #ffd479;
-@popover-title            : #d6acd6;
-@popover-tree-border      : #888;
+@popover-title            : #E1A6F2;
+@popover-tree-border      : #848991;

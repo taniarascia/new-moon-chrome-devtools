@@ -1,16 +1,15 @@
-# New Moon - Chrome DevTools UI Theme
+# New Moon Theme for Chrome DevTools
 
-> Beautiful Syntax Highlighting
+> The optimized dark theme for web development
 
-A middle-contrast theme optimized for front and back end web development.
+New Moon was designed to be easy on the eyes with intuitive connections between related elements. It's pleasant for long coding hours in any language, and particularly well suited for HTML, CSS, Sass, PHP, and JavaScript.
 
-New Moon is a dark syntax theme available for Visual Studio Code, Brackets, Sublime Text, Atom, and now Chrome Developer Tools! It is the most highly optimized theme for front and back end development, particularly HTML/PHP and JavaScript.
+## Instructions
 
-To use this theme:
-
-- To go `chrome://flags`, find "Developer Tools Experiments" and toggle to "Enabled". Reload.
-- In DevTools, click the three dots menu, go to "Settings" -> "Experiments" and select "Allow UI Themes".
-- Load a new tab and enjoy your awesome new theme!
+- Navigate to `chrome://flags`, find `Developer Tools Experiments` and toggle to `Enabled`. 
+- Reload.Chrome.
+- In DevTools, click the three dots menu, go to `Settings` -> `Experiments` and select `Allow UI Themes`.
+- Load a new tab and enjoy your awesome new DevTools theme!
 
 ## Credit
 
