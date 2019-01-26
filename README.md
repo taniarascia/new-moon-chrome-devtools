@@ -2,7 +2,9 @@
 
 > The optimized dark theme for web development
 
-New Moon was designed to be easy on the eyes with intuitive connections between related elements. It's pleasant for long coding hours in any language, and particularly well suited for HTML, CSS, Sass, PHP, and JavaScript.
+![](new-moon.png)
+
+New Moon is designed to be easy on the eyes with intuitive connections between related elements. It's pleasant for long coding hours in any language, and particularly well suited for HTML, CSS, Sass, PHP, and JavaScript.
 
 ## Instructions
 
