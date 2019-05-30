@@ -1,9 +1,8 @@
-# New Moon for Chrome DevTools [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# New Moon for [Chrome DevTools](https://chrome.google.com/webstore/detail/devtools-theme-new-moon/lndddploiofhfpdcoclegenegblkhlfk?hl=en)
 
 The optimized dark theme for web development.
 
 - [New Moon Theme Website](https://taniarascia.github.io/new-moon)
-- [Source](https://github.com/taniarascia/new-moon)
 
 ## Installation
 
