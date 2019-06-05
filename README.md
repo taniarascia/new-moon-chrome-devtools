@@ -1,3 +1,5 @@
+![Logo](new-moon-logo.svg)
+
 # New Moon for [Chrome DevTools](https://chrome.google.com/webstore/detail/devtools-theme-new-moon/lndddploiofhfpdcoclegenegblkhlfk?hl=en)
 
 The optimized dark theme for web development.
